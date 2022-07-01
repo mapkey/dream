@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mq/test/dream/code_design_mode/Responsibility/Approver.h
+iostream
+-
+string
+-
+memory
+-
+PurchaseRequest.h
+/home/mq/test/dream/code_design_mode/Responsibility/PurchaseRequest.h
+
+/home/mq/test/dream/code_design_mode/Responsibility/PurchaseRequest.h
+iostream
+-
+string
+-
+memory
+-
+
+/home/mq/test/dream/code_design_mode/Responsibility/main.cpp
+iostream
+-
+string
+-
+memory
+-
+Approver.h
+/home/mq/test/dream/code_design_mode/Responsibility/Approver.h
+PurchaseRequest.h
+/home/mq/test/dream/code_design_mode/Responsibility/PurchaseRequest.h
+
