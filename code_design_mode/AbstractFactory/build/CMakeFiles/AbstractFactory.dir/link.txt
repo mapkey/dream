@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/AbstractFactory.dir/Factory.cpp.o CMakeFiles/AbstractFactory.dir/Product.cpp.o CMakeFiles/AbstractFactory.dir/main.cpp.o  -o AbstractFactory 
