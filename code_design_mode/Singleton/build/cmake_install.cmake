@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/mq/test/dream/code_design_mode/Singleton/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/mq/test/dream/code_design_mode/Singleton/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

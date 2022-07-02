@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/mq/test/dream/code_design_mode/Singleton/Singleton.cpp" "/home/mq/test/dream/code_design_mode/Singleton/CMakeFiles/Singleton.dir/Singleton.cpp.o"
-  "/home/mq/test/dream/code_design_mode/Singleton/main.cpp" "/home/mq/test/dream/code_design_mode/Singleton/CMakeFiles/Singleton.dir/main.cpp.o"
+  "/home/mq/test/dream/code_design_mode/Singleton/Singleton.cpp" "/home/mq/test/dream/code_design_mode/Singleton/build/CMakeFiles/Singleton.dir/Singleton.cpp.o"
+  "/home/mq/test/dream/code_design_mode/Singleton/main.cpp" "/home/mq/test/dream/code_design_mode/Singleton/build/CMakeFiles/Singleton.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
