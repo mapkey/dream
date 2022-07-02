@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Adapter.dir/Client.cpp.o CMakeFiles/Adapter.dir/ClientInterface.cpp.o CMakeFiles/Adapter.dir/Service.cpp.o CMakeFiles/Adapter.dir/main.cpp.o  -o Adapter 
