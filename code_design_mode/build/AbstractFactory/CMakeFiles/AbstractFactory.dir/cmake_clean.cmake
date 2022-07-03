@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../bin/AbstractFactory"
-  "../bin/AbstractFactory.pdb"
+  "../out/bin/AbstractFactory"
+  "../out/bin/AbstractFactory.pdb"
   "CMakeFiles/AbstractFactory.dir/Factory.cpp.o"
   "CMakeFiles/AbstractFactory.dir/Product.cpp.o"
   "CMakeFiles/AbstractFactory.dir/main.cpp.o"

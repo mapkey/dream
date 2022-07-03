@@ -1,1 +1,1 @@
-/usr/bin/c++    -rdynamic CMakeFiles/Decorator.dir/Component.cpp.o CMakeFiles/Decorator.dir/main.cpp.o  -o ../bin/Decorator 
+/usr/bin/c++    -rdynamic CMakeFiles/Decorator.dir/Component.cpp.o CMakeFiles/Decorator.dir/main.cpp.o  -o ../out/bin/Decorator 

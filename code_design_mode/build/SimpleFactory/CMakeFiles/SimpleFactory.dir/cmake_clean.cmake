@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../bin/SimpleFactory"
-  "../bin/SimpleFactory.pdb"
+  "../out/bin/SimpleFactory"
+  "../out/bin/SimpleFactory.pdb"
   "CMakeFiles/SimpleFactory.dir/TV.cpp.o"
   "CMakeFiles/SimpleFactory.dir/TVFactory.cpp.o"
   "CMakeFiles/SimpleFactory.dir/main.cpp.o"

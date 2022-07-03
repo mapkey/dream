@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../bin/Decorator"
-  "../bin/Decorator.pdb"
+  "../out/bin/Decorator"
+  "../out/bin/Decorator.pdb"
   "CMakeFiles/Decorator.dir/Component.cpp.o"
   "CMakeFiles/Decorator.dir/main.cpp.o"
 )

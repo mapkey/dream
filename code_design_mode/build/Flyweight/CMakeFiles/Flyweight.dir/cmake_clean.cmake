@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../bin/Flyweight"
-  "../bin/Flyweight.pdb"
+  "../out/bin/Flyweight"
+  "../out/bin/Flyweight.pdb"
   "CMakeFiles/Flyweight.dir/Flyweight.cpp.o"
   "CMakeFiles/Flyweight.dir/FlyweightFactory.cpp.o"
   "CMakeFiles/Flyweight.dir/Forest.cpp.o"

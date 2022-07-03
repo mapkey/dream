@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../bin/state"
-  "../bin/state.pdb"
+  "../out/bin/state"
+  "../out/bin/state.pdb"
   "CMakeFiles/state.dir/ConcreteState.cpp.o"
   "CMakeFiles/state.dir/Context.cpp.o"
   "CMakeFiles/state.dir/State.cpp.o"

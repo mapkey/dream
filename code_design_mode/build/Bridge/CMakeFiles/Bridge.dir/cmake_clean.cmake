@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../bin/Bridge"
-  "../bin/Bridge.pdb"
+  "../out/bin/Bridge"
+  "../out/bin/Bridge.pdb"
   "CMakeFiles/Bridge.dir/Abstraction.cpp.o"
   "CMakeFiles/Bridge.dir/Implementation.cpp.o"
   "CMakeFiles/Bridge.dir/main.cpp.o"

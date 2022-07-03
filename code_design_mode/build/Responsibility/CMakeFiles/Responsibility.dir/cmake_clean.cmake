@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../bin/Responsibility"
-  "../bin/Responsibility.pdb"
+  "../out/bin/Responsibility"
+  "../out/bin/Responsibility.pdb"
   "CMakeFiles/Responsibility.dir/Approver.cpp.o"
   "CMakeFiles/Responsibility.dir/PurchaseRequest.cpp.o"
   "CMakeFiles/Responsibility.dir/main.cpp.o"

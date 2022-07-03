@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../bin/template"
-  "../bin/template.pdb"
+  "../out/bin/template"
+  "../out/bin/template.pdb"
   "CMakeFiles/template.dir/DrinkTemplate.cpp.o"
   "CMakeFiles/template.dir/main.cpp.o"
 )

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../bin/Memento"
-  "../bin/Memento.pdb"
+  "../out/bin/Memento"
+  "../out/bin/Memento.pdb"
   "CMakeFiles/Memento.dir/Caretaker.cpp.o"
   "CMakeFiles/Memento.dir/Memento.cpp.o"
   "CMakeFiles/Memento.dir/Originator.cpp.o"

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../bin/Mediator"
-  "../bin/Mediator.pdb"
+  "../out/bin/Mediator"
+  "../out/bin/Mediator.pdb"
   "CMakeFiles/Mediator.dir/Colleague.cpp.o"
   "CMakeFiles/Mediator.dir/Mediator.cpp.o"
   "CMakeFiles/Mediator.dir/main.cpp.o"

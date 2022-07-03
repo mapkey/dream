@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../bin/Proxy"
-  "../bin/Proxy.pdb"
+  "../out/bin/Proxy"
+  "../out/bin/Proxy.pdb"
   "CMakeFiles/Proxy.dir/MySystem.cpp.o"
   "CMakeFiles/Proxy.dir/main.cpp.o"
   "CMakeFiles/Proxy.dir/mySystemProxy.cpp.o"

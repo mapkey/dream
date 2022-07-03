@@ -1,1 +1,1 @@
-/usr/bin/c++    -rdynamic CMakeFiles/Command.dir/Chef.cpp.o CMakeFiles/Command.dir/Command.cpp.o CMakeFiles/Command.dir/Waiter.cpp.o CMakeFiles/Command.dir/main.cpp.o  -o ../bin/Command 
+/usr/bin/c++    -rdynamic CMakeFiles/Command.dir/Chef.cpp.o CMakeFiles/Command.dir/Command.cpp.o CMakeFiles/Command.dir/Waiter.cpp.o CMakeFiles/Command.dir/main.cpp.o  -o ../out/bin/Command 

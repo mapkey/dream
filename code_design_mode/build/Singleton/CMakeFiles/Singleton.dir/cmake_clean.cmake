@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../bin/Singleton"
-  "../bin/Singleton.pdb"
+  "../out/bin/Singleton"
+  "../out/bin/Singleton.pdb"
   "CMakeFiles/Singleton.dir/Singleton.cpp.o"
   "CMakeFiles/Singleton.dir/main.cpp.o"
 )

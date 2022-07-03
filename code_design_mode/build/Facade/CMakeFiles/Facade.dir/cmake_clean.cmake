@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../bin/Facade"
-  "../bin/Facade.pdb"
+  "../out/bin/Facade"
+  "../out/bin/Facade.pdb"
   "CMakeFiles/Facade.dir/Facade.cpp.o"
   "CMakeFiles/Facade.dir/SubSystem.cpp.o"
   "CMakeFiles/Facade.dir/main.cpp.o"
