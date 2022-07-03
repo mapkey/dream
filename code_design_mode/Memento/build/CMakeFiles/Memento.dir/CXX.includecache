@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mq/test/dream/code_design_mode/Memento/Caretaker.cpp
+Caretaker.h
+/home/mq/test/dream/code_design_mode/Memento/Caretaker.h
+
+/home/mq/test/dream/code_design_mode/Memento/Caretaker.h
+vector
+-
+Memento.h
+/home/mq/test/dream/code_design_mode/Memento/Memento.h
+
+/home/mq/test/dream/code_design_mode/Memento/Memento.cpp
+Memento.h
+/home/mq/test/dream/code_design_mode/Memento/Memento.h
+
+/home/mq/test/dream/code_design_mode/Memento/Memento.h
+string
+-
+
+/home/mq/test/dream/code_design_mode/Memento/Originator.cpp
+Originator.h
+/home/mq/test/dream/code_design_mode/Memento/Originator.h
+
+/home/mq/test/dream/code_design_mode/Memento/Originator.h
+string
+-
+Memento.h
+/home/mq/test/dream/code_design_mode/Memento/Memento.h
+
+/home/mq/test/dream/code_design_mode/Memento/main.cpp
+iostream
+-
+Originator.h
+/home/mq/test/dream/code_design_mode/Memento/Originator.h
+Caretaker.h
+/home/mq/test/dream/code_design_mode/Memento/Caretaker.h
+

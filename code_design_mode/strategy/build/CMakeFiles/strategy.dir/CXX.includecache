@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mq/test/dream/code_design_mode/strategy/context.cpp
+context.h
+/home/mq/test/dream/code_design_mode/strategy/context.h
+
+/home/mq/test/dream/code_design_mode/strategy/context.h
+iostream
+-
+memory
+-
+weaponStrategy.h
+/home/mq/test/dream/code_design_mode/strategy/weaponStrategy.h
+
+/home/mq/test/dream/code_design_mode/strategy/main.cpp
+context.h
+/home/mq/test/dream/code_design_mode/strategy/context.h
+weaponStrategy.h
+/home/mq/test/dream/code_design_mode/strategy/weaponStrategy.h
+iostream
+-
+
+/home/mq/test/dream/code_design_mode/strategy/weaponStrategy.cpp
+weaponStrategy.h
+/home/mq/test/dream/code_design_mode/strategy/weaponStrategy.h
+
+/home/mq/test/dream/code_design_mode/strategy/weaponStrategy.h
+iostream
+-
+memory
+-
+

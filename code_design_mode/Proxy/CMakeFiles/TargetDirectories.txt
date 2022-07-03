@@ -1,3 +1,0 @@
-/home/mq/test/code_design_mode/Proxy/CMakeFiles/rebuild_cache.dir
-/home/mq/test/code_design_mode/Proxy/CMakeFiles/edit_cache.dir
-/home/mq/test/code_design_mode/Proxy/CMakeFiles/proxy.dir
