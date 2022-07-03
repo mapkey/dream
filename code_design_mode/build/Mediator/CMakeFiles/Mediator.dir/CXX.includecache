@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mq/test/dream/code_design_mode/Mediator/Colleague.cpp
+iostream
+-
+Colleague.h
+/home/mq/test/dream/code_design_mode/Mediator/Colleague.h
+Mediator.h
+/home/mq/test/dream/code_design_mode/Mediator/Mediator.h
+
+/home/mq/test/dream/code_design_mode/Mediator/Colleague.h
+string
+-
+
+/home/mq/test/dream/code_design_mode/Mediator/Mediator.cpp
+Mediator.h
+/home/mq/test/dream/code_design_mode/Mediator/Mediator.h
+
+/home/mq/test/dream/code_design_mode/Mediator/Mediator.h
+string
+-
+Colleague.h
+/home/mq/test/dream/code_design_mode/Mediator/Colleague.h
+string
+-
+vector
+-
+
+/home/mq/test/dream/code_design_mode/Mediator/main.cpp
+iostream
+-
+string
+-
+memory
+-
+Colleague.h
+/home/mq/test/dream/code_design_mode/Mediator/Colleague.h
+Mediator.h
+/home/mq/test/dream/code_design_mode/Mediator/Mediator.h
+

@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mq/test/dream/code_design_mode/Bridge/Abstraction.cpp
+Abstraction.h
+/home/mq/test/dream/code_design_mode/Bridge/Abstraction.h
+
+/home/mq/test/dream/code_design_mode/Bridge/Abstraction.h
+iostream
+-
+string
+-
+memory
+-
+Implementation.h
+/home/mq/test/dream/code_design_mode/Bridge/Implementation.h
+
+/home/mq/test/dream/code_design_mode/Bridge/Implementation.cpp
+Implementation.h
+/home/mq/test/dream/code_design_mode/Bridge/Implementation.h
+
+/home/mq/test/dream/code_design_mode/Bridge/Implementation.h
+iostream
+-
+string
+-
+memory
+-
+
+/home/mq/test/dream/code_design_mode/Bridge/main.cpp
+iostream
+-
+string
+-
+memory
+-
+Implementation.h
+/home/mq/test/dream/code_design_mode/Bridge/Implementation.h
+Abstraction.h
+/home/mq/test/dream/code_design_mode/Bridge/Abstraction.h
+

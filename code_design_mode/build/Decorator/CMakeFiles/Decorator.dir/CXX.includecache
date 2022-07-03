@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mq/test/dream/code_design_mode/Decorator/Component.cpp
+Component.h
+/home/mq/test/dream/code_design_mode/Decorator/Component.h
+
+/home/mq/test/dream/code_design_mode/Decorator/Component.h
+memory
+-
+iostream
+-
+string
+-
+
+/home/mq/test/dream/code_design_mode/Decorator/main.cpp
+iostream
+-
+string
+-
+memory
+-
+Component.h
+/home/mq/test/dream/code_design_mode/Decorator/Component.h
+

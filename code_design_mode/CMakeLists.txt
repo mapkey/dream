@@ -1,0 +1,28 @@
+cmake_minimum_required (VERSION 2.8)
+
+project(code_desig_mode)
+
+set(CMAKE_CXX_STANDARD 14)
+
+message(status "------" ${PROJECT_NAME})
+
+add_subdirectory(AbstractFactory)
+add_subdirectory(Adapter)
+add_subdirectory(Bridge)
+add_subdirectory(Builder)
+add_subdirectory(Command)
+add_subdirectory(Composite)
+add_subdirectory(Decorator)
+add_subdirectory(Facade)
+add_subdirectory(Flyweight)
+add_subdirectory(Mediator)
+add_subdirectory(Memento)
+add_subdirectory(Observer)
+add_subdirectory(Prototype)
+add_subdirectory(Proxy)
+add_subdirectory(Responsibility)
+add_subdirectory(SimpleFactory)
+add_subdirectory(Singleton)
+add_subdirectory(state)
+add_subdirectory(strategy)
+add_subdirectory(template)

@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mq/test/dream/code_design_mode/Facade/Facade.cpp
+Facade.h
+/home/mq/test/dream/code_design_mode/Facade/Facade.h
+
+/home/mq/test/dream/code_design_mode/Facade/Facade.h
+iostream
+-
+string
+-
+memory
+-
+SubSystem.h
+/home/mq/test/dream/code_design_mode/Facade/SubSystem.h
+
+/home/mq/test/dream/code_design_mode/Facade/SubSystem.cpp
+SubSystem.h
+/home/mq/test/dream/code_design_mode/Facade/SubSystem.h
+
+/home/mq/test/dream/code_design_mode/Facade/SubSystem.h
+iostream
+-
+string
+-
+memory
+-
+
+/home/mq/test/dream/code_design_mode/Facade/main.cpp
+iostream
+-
+memory
+-
+string
+-
+SubSystem.h
+/home/mq/test/dream/code_design_mode/Facade/SubSystem.h
+Facade.h
+/home/mq/test/dream/code_design_mode/Facade/Facade.h
+
