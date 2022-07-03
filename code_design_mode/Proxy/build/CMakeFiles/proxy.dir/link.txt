@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/proxy.dir/MySystem.cpp.o CMakeFiles/proxy.dir/main.cpp.o CMakeFiles/proxy.dir/mySystemProxy.cpp.o  -o proxy 

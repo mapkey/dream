@@ -1,1 +1,1 @@
-/usr/bin/c++    -rdynamic CMakeFiles/SimpleFactory.dir/TV.cpp.o CMakeFiles/SimpleFactory.dir/TVFactory.cpp.o CMakeFiles/SimpleFactory.dir/main.cpp.o  -o SimpleFactory 
+/usr/bin/c++    -rdynamic CMakeFiles/SimpleFactory.dir/TV.cpp.o CMakeFiles/SimpleFactory.dir/TVFactory.cpp.o CMakeFiles/SimpleFactory.dir/main.cpp.o  -o ../bin/SimpleFactory 

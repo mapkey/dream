@@ -1,9 +1,9 @@
 file(REMOVE_RECURSE
+  "../bin/SimpleFactory"
+  "../bin/SimpleFactory.pdb"
   "CMakeFiles/SimpleFactory.dir/TV.cpp.o"
   "CMakeFiles/SimpleFactory.dir/TVFactory.cpp.o"
   "CMakeFiles/SimpleFactory.dir/main.cpp.o"
-  "SimpleFactory"
-  "SimpleFactory.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

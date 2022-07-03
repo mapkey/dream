@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/Responsibility.dir/Approver.cpp.o CMakeFiles/Responsibility.dir/PurchaseRequest.cpp.o CMakeFiles/Responsibility.dir/main.cpp.o  -o Responsibility 

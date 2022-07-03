@@ -1,3 +1,0 @@
-/home/mq/test/dream/code_design_mode/Decorator/build/CMakeFiles/rebuild_cache.dir
-/home/mq/test/dream/code_design_mode/Decorator/build/CMakeFiles/edit_cache.dir
-/home/mq/test/dream/code_design_mode/Decorator/build/CMakeFiles/Decorator.dir

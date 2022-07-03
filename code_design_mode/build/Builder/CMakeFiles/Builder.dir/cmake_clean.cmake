@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "Builder"
-  "Builder.pdb"
+  "../bin/Builder"
+  "../bin/Builder.pdb"
   "CMakeFiles/Builder.dir/Computer.cpp.o"
   "CMakeFiles/Builder.dir/ComputerBuilder.cpp.o"
   "CMakeFiles/Builder.dir/Director.cpp.o"

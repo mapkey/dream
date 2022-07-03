@@ -1,1 +1,1 @@
-/usr/bin/c++    -rdynamic CMakeFiles/Composite.dir/Component.cpp.o CMakeFiles/Composite.dir/Composite.cpp.o CMakeFiles/Composite.dir/main.cpp.o  -o Composite 
+/usr/bin/c++    -rdynamic CMakeFiles/Composite.dir/Component.cpp.o CMakeFiles/Composite.dir/Composite.cpp.o CMakeFiles/Composite.dir/main.cpp.o  -o ../bin/Composite 

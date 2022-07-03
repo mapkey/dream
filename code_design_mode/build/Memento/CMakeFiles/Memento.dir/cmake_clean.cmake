@@ -1,10 +1,10 @@
 file(REMOVE_RECURSE
+  "../bin/Memento"
+  "../bin/Memento.pdb"
   "CMakeFiles/Memento.dir/Caretaker.cpp.o"
   "CMakeFiles/Memento.dir/Memento.cpp.o"
   "CMakeFiles/Memento.dir/Originator.cpp.o"
   "CMakeFiles/Memento.dir/main.cpp.o"
-  "Memento"
-  "Memento.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

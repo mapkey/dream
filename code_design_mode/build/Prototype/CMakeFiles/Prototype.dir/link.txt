@@ -1,1 +1,1 @@
-/usr/bin/c++    -rdynamic CMakeFiles/Prototype.dir/Prototype.cpp.o CMakeFiles/Prototype.dir/main.cpp.o  -o Prototype 
+/usr/bin/c++    -rdynamic CMakeFiles/Prototype.dir/Prototype.cpp.o CMakeFiles/Prototype.dir/main.cpp.o  -o ../bin/Prototype 

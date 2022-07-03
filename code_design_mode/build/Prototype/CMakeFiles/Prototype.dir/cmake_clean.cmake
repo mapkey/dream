@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
+  "../bin/Prototype"
+  "../bin/Prototype.pdb"
   "CMakeFiles/Prototype.dir/Prototype.cpp.o"
   "CMakeFiles/Prototype.dir/main.cpp.o"
-  "Prototype"
-  "Prototype.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

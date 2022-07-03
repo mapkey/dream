@@ -1,3 +1,0 @@
-/home/mq/test/dream/code_design_mode/Command/build/CMakeFiles/rebuild_cache.dir
-/home/mq/test/dream/code_design_mode/Command/build/CMakeFiles/edit_cache.dir
-/home/mq/test/dream/code_design_mode/Command/build/CMakeFiles/Command.dir

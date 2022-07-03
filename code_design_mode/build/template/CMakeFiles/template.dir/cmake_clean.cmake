@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
+  "../bin/template"
+  "../bin/template.pdb"
   "CMakeFiles/template.dir/DrinkTemplate.cpp.o"
   "CMakeFiles/template.dir/main.cpp.o"
-  "template"
-  "template.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

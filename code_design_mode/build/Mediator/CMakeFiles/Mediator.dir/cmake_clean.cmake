@@ -1,9 +1,9 @@
 file(REMOVE_RECURSE
+  "../bin/Mediator"
+  "../bin/Mediator.pdb"
   "CMakeFiles/Mediator.dir/Colleague.cpp.o"
   "CMakeFiles/Mediator.dir/Mediator.cpp.o"
   "CMakeFiles/Mediator.dir/main.cpp.o"
-  "Mediator"
-  "Mediator.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

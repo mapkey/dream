@@ -1,9 +1,9 @@
 file(REMOVE_RECURSE
+  "../bin/Facade"
+  "../bin/Facade.pdb"
   "CMakeFiles/Facade.dir/Facade.cpp.o"
   "CMakeFiles/Facade.dir/SubSystem.cpp.o"
   "CMakeFiles/Facade.dir/main.cpp.o"
-  "Facade"
-  "Facade.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -1,9 +1,9 @@
 file(REMOVE_RECURSE
+  "../bin/Proxy"
+  "../bin/Proxy.pdb"
   "CMakeFiles/Proxy.dir/MySystem.cpp.o"
   "CMakeFiles/Proxy.dir/main.cpp.o"
   "CMakeFiles/Proxy.dir/mySystemProxy.cpp.o"
-  "Proxy"
-  "Proxy.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

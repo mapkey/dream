@@ -1,1 +1,1 @@
-/usr/bin/c++    -rdynamic CMakeFiles/Bridge.dir/Abstraction.cpp.o CMakeFiles/Bridge.dir/Implementation.cpp.o CMakeFiles/Bridge.dir/main.cpp.o  -o Bridge 
+/usr/bin/c++    -rdynamic CMakeFiles/Bridge.dir/Abstraction.cpp.o CMakeFiles/Bridge.dir/Implementation.cpp.o CMakeFiles/Bridge.dir/main.cpp.o  -o ../bin/Bridge 

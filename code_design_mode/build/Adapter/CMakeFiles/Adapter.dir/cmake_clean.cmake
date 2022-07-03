@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "Adapter"
-  "Adapter.pdb"
+  "../bin/Adapter"
+  "../bin/Adapter.pdb"
   "CMakeFiles/Adapter.dir/Client.cpp.o"
   "CMakeFiles/Adapter.dir/ClientInterface.cpp.o"
   "CMakeFiles/Adapter.dir/Service.cpp.o"
